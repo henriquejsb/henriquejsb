@@ -1,5 +1,6 @@
 
-# Henrique Branquinho
+# Henrique Branquinho ![plot](http://pa1.narvii.com/6857/854dc7fc55f157f7fafcde7f21f6897f3b4a2f83_00.gif)
+
 
 
 I am a Master of Computer Science, currently looking for new opportunities in **Data Science** and **Machine Learning**. My repositories vary from Network Science , the field of study on which I did my Master's thesis "Counting Subgraphs in Online Networks", to optimization problems and general algorithmic strategies (with some Google and Kaggle contests), to Data Science and Machine Learning projects, along with some other personal projects. I hope you find some of my projects useful and feel free to use them and improve them!
