@@ -16,6 +16,7 @@ Conference on Complex Networks and their Applications*, 2020.
  - **Unimaze** (https://github.com/henriquejsb/UNIMAZE ) - A 2D game that tells the story of a college student trying to finish all his courses in one year so his parents won't find out he has been failing every year, developed in HTML, CSS and Javascript. 
  - **SECD and Unification Algorithm** (https://github.com/henriquejsb/SECD_Unification ) - An implementation of a SECD with call-by-name and call-by-value approach , and an implementation of the Unification Algorithm in Haskell.
  - **Gif Encoder**(https://github.com/henriquejsb/GIF_Encoder ) - A tool to convert jpeg and png image files to GIF.
+ - **Taxi Services Heatmap** (https://github.com/henriquejsb/TaxiServicesSQL ) - An academic project where I used folium, PostgreSQL and PostGIS to create a heatmap of taxi services with Portugal's district's borders or with a grid based display.
 -----
 ### Currently working on
 - **Chessano**♟️ - A chess bot with an initial approach of using minimax and neural networks with supervised learning to evaluate positions, with intentions of scaling it to a reinforcement learning approach.
