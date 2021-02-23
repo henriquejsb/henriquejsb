@@ -10,9 +10,11 @@ I am a Master of Computer Science, currently looking for new opportunities in **
  - **StreamFaSE** - A framework for updating subgraph frequencies in streaming networks that I developed for my master's thesis published in "Henrique Branquinho, Luciano Grácio, and Pedro Ribeiro. **StreamFase: An online algorithm for subgraph counting in dynamic networks**. *In Proceedings of the 9th International
 Conference on Complex Networks and their Applications*, 2020.
  - **Optimization problems** 🧠- A set of optimization problems and solutions to them where a range of strategies are employed (backtracking, greedy, dynamic programming, geometrical algorithms...)
- - **Simplified C compiler** - A compiler for a simplified version of C developed as a college assignment for a Compilers course during my Bachelor's.
+ - **Simplified C compiler** (https://github.com/henriquejsb/SimplifiedCCompiler) - A compiler for a simplified version of C developed as a college assignment for a Compilers course during my Bachelor's.
  - **Network Science Projects** (https://github.com/henriquejsb/NetworkScience) - A set of projects I developed for a Network Science course during my Master's. Includes different network generators (Barabási-Albert, Erdős–Rényi), some studies on motif analysis, community discovery and PageRank, diffusion and cascading behavior, and a small analysis on a chess network as a final project.
+ - **Unimaze** (https://github.com/henriquejsb/UNIMAZE) - A 2D game that tells the story of a college student trying to finish all his courses in one year so his parents won't find out he has been failing every year, developed in HTML, CSS and Javascript. 
  - **SECD and Unification Algorithm** (https://github.com/henriquejsb/SECD_Unification) - An implementation of a SECD with call-by-name and call-by-value approach , and an implementation of the Unification Algorithm in Haskell.
+ - **Gif Encoder**(https://github.com/henriquejsb/GIF_Encoder) - A tool to convert jpeg and png image files to GIF.
 -----
 ### Currently working on
 - **Chessano**♟️ - A chess bot with an initial approach of using minimax and neural networks with supervised learning to evaluate positions, with intentions of scaling it to a reinforcement learning approach.
