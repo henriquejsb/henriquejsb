@@ -3,7 +3,7 @@
 
 
 
-I am a PhD student currently focusing on Evolutionary Computation and Spiking Neural Networks. My repositories vary from Network Science, the field of study on which I did my Master's thesis "Counting Subgraphs in Online Networks", to optimization problems and general algorithmic strategies (with some Google and Kaggle contests), to Data Science and Machine Learning projects, along with some other personal projects. I hope you find some of my projects useful and feel free to use them and improve them! I am still trying to gather some interesting projects I've developed over the years to include them in this git profile.
+I am a PhD student @ECOS-CISUC - Universidade de Coimbra, currently focusing on Evolutionary Computation and Spiking Neural Networks. My repositories vary from Network Science, the field of study on which I did my Master's thesis "Counting Subgraphs in Online Networks", to optimization problems and general algorithmic strategies (with some Google and Kaggle contests), to Data Science and Machine Learning projects, along with some other personal projects. I hope you find some of my projects useful and feel free to use them and improve them! I am still trying to gather some interesting projects I've developed over the years to include them in this git profile.
 
 ## Repositories (UNDER UPDATES)
 
@@ -17,6 +17,7 @@ Conference on Complex Networks and their Applications*, 2020.
  - **SECD and Unification Algorithm** (https://github.com/henriquejsb/SECD_Unification ) - An implementation of a SECD with call-by-name and call-by-value approach , and an implementation of the Unification Algorithm in Haskell.
  - **Gif Encoder**(https://github.com/henriquejsb/GIF_Encoder ) - A tool to convert jpeg and png image files to GIF.
  - **Taxi Services Heatmap** (https://github.com/henriquejsb/TaxiServicesSQL ) - An academic project where I used folium, PostgreSQL and PostGIS to create a heatmap of taxi services with Portugal's district's borders or with a grid based display.
+ - **Advent of Code 2022** (https://github.com/henriquejsb/adventofcode2022) - Python3 solutions to some problems included in the Advent of Code 2022 event.
 -----
 ### Currently working on
 
