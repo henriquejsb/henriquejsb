@@ -3,12 +3,12 @@
 
 
 
-I am a PhD student currently focusing on AutoML. My repositories vary from Network Science , the field of study on which I did my Master's thesis "Counting Subgraphs in Online Networks", to optimization problems and general algorithmic strategies (with some Google and Kaggle contests), to Data Science and Machine Learning projects, along with some other personal projects. I hope you find some of my projects useful and feel free to use them and improve them! I am still trying to gather some interesting projects I've developed over the years to include them in this git profile.
+I am a PhD student currently focusing on Evolutionary Computation and Spiking Neural Networks. My repositories vary from Network Science, the field of study on which I did my Master's thesis "Counting Subgraphs in Online Networks", to optimization problems and general algorithmic strategies (with some Google and Kaggle contests), to Data Science and Machine Learning projects, along with some other personal projects. I hope you find some of my projects useful and feel free to use them and improve them! I am still trying to gather some interesting projects I've developed over the years to include them in this git profile.
 
-## Repositories (UNDER UPDATES, STILL COLLECTING SOME ML AND DS PROJECTS TO ORGANIZE MY REPOSITORIES)
+## Repositories (UNDER UPDATES)
 
 
- - **StreamFaSE** (under work 🔧) - A framework for updating subgraph frequencies in streaming networks that I developed for my master's thesis published in "Henrique Branquinho, Luciano Grácio, and Pedro Ribeiro. **StreamFase: An online algorithm for subgraph counting in dynamic networks**. *In Proceedings of the 9th International
+ - **StreamFaSE** - A framework for updating subgraph frequencies in streaming networks that I developed for my master's thesis published in "Henrique Branquinho, Luciano Grácio, and Pedro Ribeiro. **StreamFase: An online algorithm for subgraph counting in dynamic networks**. *In Proceedings of the 9th International
 Conference on Complex Networks and their Applications*, 2020.
  - **Optimization problems** 🧠 (under work 🔧 https://github.com/henriquejsb/GeneralProblems )- A set of optimization problems and solutions to them where a range of strategies are employed (backtracking, greedy, dynamic programming, geometric algorithms...)
  - **Simplified C compiler** (https://github.com/henriquejsb/SimplifiedCCompiler ) - A compiler for a simplified version of C developed as a college assignment for a Compilers course during my Bachelor's.
@@ -19,5 +19,5 @@ Conference on Complex Networks and their Applications*, 2020.
  - **Taxi Services Heatmap** (https://github.com/henriquejsb/TaxiServicesSQL ) - An academic project where I used folium, PostgreSQL and PostGIS to create a heatmap of taxi services with Portugal's district's borders or with a grid based display.
 -----
 ### Currently working on
-- **Chessano**♟️ - A chess bot with an initial approach of using minimax and neural networks with supervised learning to evaluate positions, with intentions of scaling it to a reinforcement learning approach.
-- **StreamFaSE (Motif analysis)** - Currently improving the work done with StreamFaSE to include a motif analysis of the varying subgraph frequencies in the streaming network rather than just the frequencies alone. 
+
+- **Evolving SNNs** - Developing a general framework for the automatic design of Spiking Neural Networks.
