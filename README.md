@@ -1,7 +1,9 @@
 
+
 <p align="center">
-![plot](bart.gif)
+  <img src="https://github.com/henriquejsb/henriquejsb/blob/main/bart.gif">
 </p>
+
 # Henrique Branquinho 
 
 
