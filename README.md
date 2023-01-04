@@ -1,6 +1,7 @@
 
-<center>![plot](bart.gif)</center>
-
+<p align="center">
+![plot](bart.gif)
+</p>
 # Henrique Branquinho 
 
 
