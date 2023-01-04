@@ -7,7 +7,7 @@
 
 I am a PhD student @ECOS-CISUC - Universidade de Coimbra, currently focusing on Evolutionary Computation and Spiking Neural Networks. My repositories vary from Network Science, the field of study on which I did my Master's thesis "Counting Subgraphs in Online Networks", to optimization problems and general algorithmic strategies (with some Google and Kaggle contests), to Data Science and Machine Learning projects, along with some other personal projects. I hope you find some of my projects useful and feel free to use them and improve them! I am still trying to gather some interesting projects I've developed over the years to include them in this git profile.
 
-## Repositories (UNDER UPDATES)
+## Repositories
 
 
  - **StreamFaSE** - A framework for updating subgraph frequencies in streaming networks that I developed for my master's thesis published in "Henrique Branquinho, Luciano Grácio, and Pedro Ribeiro. **StreamFase: An online algorithm for subgraph counting in dynamic networks**. *In Proceedings of the 9th International
