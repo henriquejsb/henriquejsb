@@ -8,7 +8,7 @@
 
 
 
-I am a PhD student @ECOS-CISUC - Universidade de Coimbra, currently focusing on Evolutionary Computation and Spiking Neural Networks. My repositories vary from Network Science, the field of study on which I did my Master's thesis "Counting Subgraphs in Online Networks", to optimization problems and general algorithmic strategies (with some Google and Kaggle contests), to Data Science and Machine Learning projects, along with some other personal projects. I hope you find some of my projects useful and feel free to use them and improve them! I am still trying to gather some interesting projects I've developed over the years to include them in this git profile.
+My repositories vary from Network Science, the field of study on which I did my Master's thesis "Counting Subgraphs in Online Networks", to optimization problems and general algorithmic strategies (with some Google and Kaggle contests), to Data Science and Machine Learning projects, along with some other personal projects. I hope you find some of my projects useful and feel free to use them and improve them! I am still trying to gather some interesting projects I've developed over the years to include them in this git profile.
 
 ## Repositories
 
